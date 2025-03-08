@@ -1,2 +1,3 @@
 # samara-ads
-teste para projeto ads
+criando um repositório
+projeto de software
